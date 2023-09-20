@@ -1,4 +1,4 @@
-module discord-status-blinker
+module discord-spotify-status
 
 go 1.20
 
