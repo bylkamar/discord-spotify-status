@@ -2,11 +2,11 @@
 
 <div align="center">
  
-[![Stars](https://img.shields.io/github/stars/bylkamar/telegram-rss?style=social)](https://github.com/bylkamar/telegram-rss)
-[![Forks](https://img.shields.io/github/forks/bylkamar/telegram-rss?style=social
-)](https://github.com/bylkamar/telegram-rss)
-[![Issues](https://img.shields.io/github/issues/bylkamar/telegram-rss
-)](https://github.com/bylkamar/telegram-rss)
+[![Stars](https://img.shields.io/github/stars/bylkamar/discord-spotify-status?style=social)](https://github.com/bylkamar/discord-spotify-status)
+[![Forks](https://img.shields.io/github/forks/bylkamar/discord-spotify-status?style=social
+)](https://github.com/bylkamar/discord-spotify-status)
+[![Issues](https://img.shields.io/github/issues/bylkamar/discord-spotify-status
+)](https://github.com/bylkamar/discord-spotify-status)
 
 **Synchronisé votre écoute Spotify à votre profil Discord**
 
@@ -51,15 +51,15 @@ go build
 * Version RichPresence (RPC)
 * Possibilité de modifier le format et le nombre de lignes à affiché
 
-> Je suis ouvert <a href="https://github.com/bylkamar/telegram-rss/pulls">aux idées</a> ou bien si vous avez reperéz <a href="https://github.com/bylkamar/telegram-rss/issues">des bugs</a>, soumettez-les moi.
+> Je suis ouvert <a href="https://github.com/bylkamar/discord-spotify-status/pulls">aux idées</a> ou bien si vous avez reperéz <a href="https://github.com/bylkamar/discord-spotify-status/issues">des bugs</a>, soumettez-les moi.
 
 
 
 ## 👥 Contributeurs
 
 <p align="center">
-  <a href="https://github.com/bylkamar/telegram-rss/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=bylkamar/telegram-rss" />
+  <a href="https://github.com/bylkamar/discord-spotify-status/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=bylkamar/discord-spotify-status" />
   </a>
 </p>
 
